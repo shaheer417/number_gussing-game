@@ -2,11 +2,12 @@
   "dependencies": {
     "inquirer": "^9.2.20"
   },
-  "name": "number_gussing-game",
-  "version": "1.0.0",
+  "name": "923wniazinumber_gussing-game",
+  "version": "2.0.1",
   "description": "My project ",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
   },

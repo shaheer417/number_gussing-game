@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 const input1 = await inquirer.prompt({
     name: "num1",
